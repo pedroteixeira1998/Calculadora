@@ -1,0 +1,53 @@
+:root{
+    --butão: rgb(55, 214, 200);
+    --fundo-principal: rgb(17, 55, 73);
+    --letras: #fff;
+    --hover: rgb(17, 184, 170);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    background-color: var(--fundo-principal);
+    color: var(--letras);
+    padding: 25px;
+}
+
+button{
+    width: 70px;
+    height: 50px;
+    border: none;
+    color: var(--letras);
+    font-size: 20pt;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: var(--butão);
+}
+
+button:hover{
+    background-color:var(--hover) ;
+}
+
+p{
+    width: 285px;
+    height: 50px;
+    background-color: var(--butão);
+    margin-bottom: 20px;
+    font-size: 25pt;
+    text-align: right;
+    border-radius: 5px;
+}
+
+
+
+
+
+
