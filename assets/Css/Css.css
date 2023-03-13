@@ -1,6 +1,7 @@
 :root{
     --butão: rgb(55, 214, 200);
     --fundo-principal: rgb(17, 55, 73);
+    --body-dark: #263238;
     --letras: #fff;
     --hover: rgb(17, 184, 170);
 }
@@ -8,6 +9,10 @@
 *{
     margin: 0;
     padding: 0;
+}
+
+body{
+    transition: 1s;
 }
 
 main{
@@ -46,6 +51,11 @@ p{
     border-radius: 5px;
 }
 
+.change{
+    position: absolute;
+    left: 41vw;
+    top: 13vw;
+}
 
 
 

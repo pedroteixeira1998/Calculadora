@@ -1,0 +1,51 @@
+input[type="checkbox"] {
+    display: none    
+}
+
+.bi {
+    cursor: pointer;
+    border: 1px solid var(--body-dark);
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 1.3rem;
+}
+ .bi-moon{
+    display: block;
+    color: var(--body-dark);
+ }
+
+.bi-sun{
+    display: none;
+}
+
+.dark{
+    background-color: var(--body-dark);
+    transition: 1s;
+}
+
+.dark .bi {
+    cursor: pointer;
+    border: 1px solid var(--butão);
+    border-radius: 50%;
+    padding: 10px;
+    font-size: 1.3rem;
+}
+.dark .bi-moon {
+    display: none;
+  }
+
+  .dark .bi-sun{
+    display: block;
+    color: var(--butão);
+  }
+  
+  .dark main{
+    background-color: var(--butão);
+  }
+
+  .dark p {
+    background-color: var(--fundo-principal);
+  }
+  .dark button{
+    background-color: var(--fundo-principal);
+  }
