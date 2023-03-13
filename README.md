@@ -2,7 +2,7 @@
 
 ## Descrição do projeto.
 
-A página possui uma calculadora com operações matemáticas simples.
+A página possui uma calculadora com operações matemáticas simples com a opção de Dark e Light mode.
 
 ## Tecnologias
 
@@ -14,11 +14,11 @@ A página possui uma calculadora com operações matemáticas simples.
 
 ## Motivação
 
-O projeto foi focado para fortalecer funções básicas do JavaScript e principalmente trabalhar a construção do README.
+O projeto foi focado para fortalecer funções básicas do JavaScript, trabalhar com toogle (Dark e light mode nesse caso) e principalmente trabalhar a construção do README. 
 
 ## Execução. 
 
-![Desktop 2023 03 12 - 23 03 03 02](https://user-images.githubusercontent.com/124098830/224592432-f2d2d8cd-7670-4c82-b4d8-025bdbddf330.gif)
+![Desktop 2023 03 13 - 19 01 54 02 (1)](https://user-images.githubusercontent.com/124098830/224844193-54b1c4f7-0a79-40ae-9cad-c2809baf9606.gif)
 
 ## Link.
 
@@ -26,7 +26,13 @@ https://pedroteixeira1998.github.io/Calculadora/
 
 ## Foto
 
-![WhatsApp Image 2023-03-12 at 22 56 37](https://user-images.githubusercontent.com/124098830/224590994-acfb97ef-e4ed-4c46-979b-eee29321741a.jpeg)
+![WhatsApp Image 2023-03-13 at 19 17 42](https://user-images.githubusercontent.com/124098830/224845186-982a8d41-4e29-41d7-93ae-d8c18ee06021.jpeg)
+
+![WhatsApp Image 2023-03-13 at 19 15 10](https://user-images.githubusercontent.com/124098830/224844857-d8cce6b1-158e-48f4-a308-1a86fda7162f.jpeg)
+
+![WhatsApp Image 2023-03-13 at 18 30 46](https://user-images.githubusercontent.com/124098830/224844835-0367a42b-add7-4ea7-ba5a-9bb6065d6471.jpeg)
+
+![WhatsApp Image 2023-03-13 at 18 30 10](https://user-images.githubusercontent.com/124098830/224844846-06055be6-10e9-4f60-8a1a-623cce772fe2.jpeg)
 
 ## HTML 
 
