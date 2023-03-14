@@ -41,11 +41,14 @@ input[type="checkbox"] {
   
   .dark main{
     background-color: var(--butão);
+    transition: 1s;
   }
 
   .dark p {
     background-color: var(--fundo-principal);
+    transition: 1s;
   }
   .dark button{
     background-color: var(--fundo-principal);
+    transition: 1s;
   }
